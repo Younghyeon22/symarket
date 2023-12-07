@@ -27,7 +27,9 @@
 #header .container .gap .search input {
   width: 500px;
   height: 45px;
-  padding: 0 15px;
+  padding: 0 50px 0 15px;
+  background: url(../img/search.svg) no-repeat 97% 50%;
+  background-size: 25px;
 }
 #header .container .gap .mypage {
   text-align: end;
